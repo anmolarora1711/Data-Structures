@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 19 17:28:11 2020
-
-@author: ANMOL ARORA
-
-"""
-
-
 class Node:
     def __init__(self, data = None, next = None):
         self.data = data
